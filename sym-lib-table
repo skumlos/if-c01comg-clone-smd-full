@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rgb-board-rescue)(type Legacy)(uri ${KIPRJMOD}/rgb-board-rescue.lib)(options "")(descr ""))
+)
